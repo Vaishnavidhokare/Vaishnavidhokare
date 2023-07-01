@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishnavidhokare
 - 👨‍💻 full stack devloper
-- 🌱 I’m currently learning ...website devlopment & desgining
+- 🌱 I’m currently learning ...android devlopment & desgining
 - 📫 How to reach me ...email: vaishnavidhokare49@gmail.com
 - 
 <!---
